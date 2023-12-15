@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hjack737
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning bash
-- 💞️ Take a look at my website http://www.hjack.my.to
+- 💞️ Take a look at my website http://hjack.my.to
 - 📫 How to reach me please not
 
 <!---
